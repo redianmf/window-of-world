@@ -1,0 +1,30 @@
+.modal-text {
+    padding: 20px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #29BD11;
+
+}
+
+.modal-content {
+    width: 742px !important;
+    height: 142px !important;            
+    background: rgb(255, 255, 255) !important;
+    border-radius: 5px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #29BD11;
+}
+
